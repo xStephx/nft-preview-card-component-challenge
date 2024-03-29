@@ -9,6 +9,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ![](./assets/images/screenshot.PNG)
 
+You can check it out live [here](https://xstephx.github.io/nft-preview-card-component-challenge/).
+
 ## My process
 
 ### Built with
